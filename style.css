@@ -1,0 +1,10 @@
+#nav-bar{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+@media screen and (max-width: 1280px) {
+    body {
+        background-color: lavender;     }
+}
